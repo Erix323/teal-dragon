@@ -1,4 +1,4 @@
 # teal-dragon
 
-Hello
-Shopping List
+* Hello
+* Shopping List
